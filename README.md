@@ -1,1 +1,1 @@
-This is simple movie recommendation website made using Next.js. I used tmdb api to fetch results for my website
+This is simple movie recommendation website made using Next.js. I used tmdb api to fetch results for my website.
